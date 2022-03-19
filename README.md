@@ -18,7 +18,13 @@ Can be found on telegram as [UserbotIndo](https://t.me/userbotindobot).
 
 Join the [Group Support](https://t.me/userbotindo) if you just want to stay in the loop about new features or announcements.
 
+Deploy to Heroku with button
 
+<p><a href="https://heroku.com/deploy?template=https://github.com/gymariq22/UserIndoBot/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank" /></a></p>
+
+[Deploy to heroku with github actions](https://github.com/gymariq22/UserIndoBot/blob/sql-extended/helper.md)
+
+For further guide you can head to [Groups and Support](https://github.com/mrmissx/UserButt#Groups-and-support) or read this [guide](https://telegra.ph/Host-a-Telegram-Userbot-05-07)
 ## NOTICE
 
 This project is no longer under active maintenance. Bug fixes may still be released, but no new features will be added. We'll no longer be responding to an Issue or Pull Request unless they are related to any security or critical bug concerns. You can use [Anjani](https://github.com/userbotindo/anjani), our new group management bot, an improvement from this bot.
